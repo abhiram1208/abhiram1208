@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and web development 
 - 🌱 I’m currently learning about new AI tools and their usage. 
 - 💞️ My works are added to GitHub, make a check on it.
-- 📫 How to reach me ...
+
 
 
 <!---
